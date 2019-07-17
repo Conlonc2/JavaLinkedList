@@ -1,6 +1,7 @@
 import BuildingBlocks.List;
 
 public class app {
+	// This is just a test of the List
 	public static void main(String[] args) {
 		List l = new List();
 		
